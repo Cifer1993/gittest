@@ -7,3 +7,4 @@ Create a new branch is quick and simple.
 
 switch dev.
 
+git is s free software.
