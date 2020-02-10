@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 Create a new branch is quick.
 
 switch dev.
+
+use stash.
